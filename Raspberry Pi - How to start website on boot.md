@@ -15,7 +15,7 @@ sudo apt install xdotool
 
 
 
-## Files in raspberr Pi
+## Files/Scripts in raspberr Pi
 
 
 ### solaredge.sh
@@ -75,10 +75,16 @@ sudo chmod +x refreshpage.sh
 
 
 
-## In crontab
+## Crontab
+
+
+### To open crontab
 ```
 crontab -e
 ```
+
+
+### In crontab
 ```
 @reboot sleep 10;(. ~/.profile; /usr/bin/screen -dmS SolarEdge ~/solaredge.sh)
 ```
