@@ -15,7 +15,7 @@ sudo apt install xdotool
 
 
 
-## Files/Scripts in raspberr Pi
+## Files/Scripts in raspberry Pi
 
 
 ### solaredge.sh
