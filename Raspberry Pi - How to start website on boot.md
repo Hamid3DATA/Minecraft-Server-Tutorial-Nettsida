@@ -11,4 +11,4 @@ sudo apt install unclutter
 ```
 sudo apt install xdotool
 ```
-[Juleshow Sida XD](192.168.1.148)
+[Juleshow Sida XD](http://192.168.1.148)
