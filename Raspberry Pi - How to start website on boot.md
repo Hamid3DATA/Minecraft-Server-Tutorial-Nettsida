@@ -1,6 +1,6 @@
 # Everything you need to do
 
-[SolarEdge Eig VGS sida](https://monitoringpublic.solaredge.com/solaredge-web/p/site/public?name=Solenergi%20Eid%20VGS&locale=en_GB#/dashboard)
+[SolarEdge Eid VGS sida](https://monitoringpublic.solaredge.com/solaredge-web/p/site/public?name=Solenergi%20Eid%20VGS&locale=en_GB#/dashboard)
 
 
 
