@@ -1,4 +1,4 @@
-This "project" was made to showcase our schools SolarEdge page and show different "Power and Energy" graphs it was used on a 1024x768 monitor.
+This "project" was made to showcase our schools SolarEdge page and show different "Power and Energy" graphs, it was used on a 1024x768 monitor.
 
 So some things should be changed according to the monitor being used, e.g. mouse cursor coordinates.
 
